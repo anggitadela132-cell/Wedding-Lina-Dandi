@@ -1244,3 +1244,21 @@ section.ayat-section {
 
   box-shadow: 0 10px 25px rgba(0,0,0,0.3);
 }
+
+.item-ucapan {
+  background: rgba(255,255,255,0.08);
+  border: 1px solid rgba(255,255,255,0.15);
+  border-radius: 10px;
+  padding: 12px 16px;
+  margin-bottom: 10px;
+}
+.item-ucapan b {
+  display: block;
+  color: #FFD700;
+  margin-bottom: 4px;
+}
+.item-ucapan p {
+  margin: 6px 0 0;
+  font-size: 14px;
+  color: #fff;
+}
