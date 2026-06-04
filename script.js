@@ -21,7 +21,7 @@ opening.addEventListener("click", openInvite);
 window.openInvite = openInvite;
 
 // Countdown
-var countDate = new Date("June 10, 2026 08:00:00").getTime();
+var countDate = new Date("June 07, 2026 08:00:00").getTime();
 setInterval(function() {
   var now = new Date().getTime();
   var distance = countDate - now;
